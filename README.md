@@ -3,7 +3,7 @@ GL-Lighting Practice
 
 - Deferred Lighting
 - Depth Shadow
-- SSAO
+- Screen Space Ambient Occlusion
 
 TODO
-- Ray Tracing
+- Ray Tracing (CPU, GPU)
